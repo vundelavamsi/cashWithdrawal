@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.cash-withdrawal-bg-container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cash-withdrawal-container {
+    background-color: #150b3e;
+    border-radius: 20px;
+    padding: 20px;
+    width: 90%;
+}
+
+.user-profile {
+    background-color: #c7d2fe;
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.username {
+    color: #c7d2fe;
+    font-size: 20px;
+}
+
+.user-details {
+    display: flex;
+    flex-direction: row;
+}
+
+.user-profile-icon {
+    color: #7c3aed;
+}
+
+.balance-section {
+    color: white;
+}
